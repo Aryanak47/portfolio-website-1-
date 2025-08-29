@@ -7,44 +7,47 @@ import "./globals.css"
 import { Suspense } from "react"
 
 export const metadata: Metadata = {
-  title: "John Developer - Full-Stack Engineer | .NET, React, Angular, Node.js",
+  title: "Yougal Bimali - Full-Stack Developer | Java, Spring Boot, React, Node.js",
   description:
-    "Experienced Full-Stack Developer specializing in .NET, React, Angular, and Node.js. View my portfolio of web applications, APIs, and UI designs. Available for freelance projects and full-time opportunities.",
+    "Experienced Full-Stack Developer specializing in Java, Spring Boot, React, and Node.js. Currently working at VerifyWise on AI governance solutions. View my portfolio of web applications, mobile apps, and fintech projects.",
   keywords: [
     "Full-Stack Developer",
-    ".NET",
+    "Java",
+    "Spring Boot",
     "React",
-    "Angular",
     "Node.js",
     "TypeScript",
     "Web Development",
     "Portfolio",
+    "VerifyWise",
+    "Hamro Patro",
+    "FinTech",
   ],
-  authors: [{ name: "John Developer" }],
-  creator: "John Developer",
-  publisher: "John Developer",
+  authors: [{ name: "Yougal Bimali" }],
+  creator: "Yougal Bimali",
+  publisher: "Yougal Bimali",
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://johndeveloper.dev",
-    title: "John Developer - Full-Stack Engineer",
+    url: "https://yougalbimali.dev",
+    title: "Yougal Bimali - Full-Stack Developer",
     description:
-      "Experienced Full-Stack Developer specializing in modern web technologies. View my portfolio and get in touch for your next project.",
-    siteName: "John Developer Portfolio",
+      "Experienced Full-Stack Developer specializing in Java, Spring Boot, React, and modern web technologies. View my portfolio and get in touch for your next project.",
+    siteName: "Yougal Bimali Portfolio",
     images: [
       {
-        url: "/professional-developer-headshot.png",
+        url: "/avatar.jpeg",
         width: 1200,
         height: 630,
-        alt: "John Developer - Full-Stack Engineer",
+        alt: "Yougal Bimali - Full-Stack Developer",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "John Developer - Full-Stack Engineer",
-    description: "Experienced Full-Stack Developer specializing in modern web technologies.",
-    images: ["/professional-developer-headshot.png"],
+    title: "Yougal Bimali - Full-Stack Developer",
+    description: "Experienced Full-Stack Developer specializing in Java, Spring Boot, React, and modern web technologies.",
+    images: ["/avatar.jpeg"],
   },
   robots: {
     index: true,

@@ -4,6 +4,7 @@ import { ProjectsShowcase } from "@/components/projects-showcase"
 import { SkillsSection } from "@/components/skills-section"
 import { CertificationsSection } from "@/components/certifications-section"
 import { ExperienceTimeline } from "@/components/experience-timeline"
+import { EducationSection } from "@/components/education-section"
 import { ContactSection } from "@/components/contact-section"
 import { ScrollToTop } from "@/components/scroll-to-top"
 
@@ -16,6 +17,7 @@ export default function Home() {
       <SkillsSection />
       <CertificationsSection />
       <ExperienceTimeline />
+      <EducationSection />
       <ContactSection />
       <ScrollToTop />
     </main>
